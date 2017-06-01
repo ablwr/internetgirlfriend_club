@@ -1,0 +1,16 @@
+title: Internet Girlfriend Club
+email: your-email@domain.com
+description: > #
+baseurl: /
+url: https://ablwr.github.io
+
+markdown: kramdown
+custom_theme: overkyll-jekyll-theme
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+collections:
+  chapter01:
+    output: true

@@ -1,0 +1,41 @@
+---
+---
+@import "overkyll-jekyll-theme";
+
+// Custom overrides
+
+header {
+  background-color: $oc-teal-1;
+}
+
+.site-header {
+  padding: 6em 0 3em 0;
+}
+
+#main {
+  background-color: $oc-pink-1;
+  padding: 1em 0 2em 0;
+}
+
+footer {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  background-color: $oc-pink-3;
+  text-align: center;
+}
+
+h3 {
+  margin-top: 0em;
+  padding-top: 1em;
+}
+
+h1 {
+  margin: 0;
+  padding-top: 1em;
+}
+
+.pagination a {
+  text-decoration: none;
+  background: $oc-teal-2;
+  padding: 0.5em 1em;
+}

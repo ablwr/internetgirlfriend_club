@@ -17,6 +17,7 @@ This is a project by [Ashley Blewer](http://ashleyblewer.com), using the third-p
 
 - Built with [Jekyll](https://jekyllrb.com/)
 - Using [overkyll-jekyll-theme](https://github.com/bertrandkeller/overkyll-jekyll-theme) as the base theme
+- [Namecheap](https://www.namecheap.com/) sold me the domain.
 
 ### Inspo
 

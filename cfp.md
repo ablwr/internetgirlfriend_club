@@ -38,4 +38,4 @@ Accepted submissions will be delicately wrapped in code by hand and released as 
 
 ### So...?
 
-For now, email me at ashley.blewer, courtesy of gmail. For private submissions, I will soon set up an alternate method.
+For now, email ashley.blewer, courtesy of gmail. For private submissions, we will soon set up an alternate method.

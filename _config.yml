@@ -2,8 +2,6 @@ title: Internet Girlfriend Club
 email: your-email@domain.com
 description: > #
 baseurl: /
-url: internetgirlfriend.club
-
 markdown: kramdown
 custom_theme: overkyll-jekyll-theme
 gems:

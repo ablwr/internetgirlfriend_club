@@ -5,6 +5,10 @@ permalink: /cfp/
 navigation: true
 ---
 
+### Submission Deadlines
+
+Next chapter submission deadline is June 30, 2017!
+
 ### Submission Guidelines
 
 {{ site.title }} is seeking former Generation Y2K internet girlfriends and boyfriends and whateverfriends to share informally their experience as teenagers or young adults on the world wide web.
@@ -25,6 +29,12 @@ Submissions can be in the form of a text narrative, illustration, interview, pho
 - Getting dumped on the internet
 - Getting grounded because of the internet
 
+### Submission Outline
+
+- Title  
+- Story or links to other material
+- Name, or fake name, or total anonymity request.
+
 ### Submission Restrictions
 
 - The narrative must have taken place on an internet that existed earlier than 2004.
@@ -38,4 +48,4 @@ Accepted submissions will be delicately wrapped in code by hand and released as 
 
 ### So...?
 
-For now, email ashley.blewer, courtesy of gmail. For private submissions, we will soon set up an alternate method.
+If you'd like, you can email ashley.blewer, courtesy of gmail. For private submissions in which I also do not know who sent this narrative, manage your security appropriately and [reply via this form](https://docs.google.com/forms/d/e/1FAIpQLSeUqrFZoeRduZqeyEQsAPUoXb7SddRmQ2XmalXkym_29-P2gw/viewform?usp=sf_link).

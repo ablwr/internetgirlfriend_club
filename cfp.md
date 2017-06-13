@@ -30,11 +30,11 @@ Submissions can be in the form of a text narrative, illustration, interview, pho
 - Title  
 - Story or links to other material
 - Name, or fake name, or total anonymity request.
-- If using your real name, feel free to send me a path to use as a hyperlink. 
+- If using your real name, feel free to send me a path to use as a hyperlink.
 
 ### Submission Restrictions
 
-- The narrative must have taken place on an internet that existed earlier than 2004.
+- The narrative must have taken place on an internet that existed earlier than September 26, 2006.
 - Submissions should be informal (like talking to a friend), but formality (e.g. academic analysis) is okay too. E.g., text narratives need not be verbose -- 200 words will do, although longform submissions are also welcome. Just letting you know, this is chill.
 
 ### Submission Conclusions

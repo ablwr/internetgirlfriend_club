@@ -10,5 +10,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
 collections:
-  chapter01:
+  volume1:
     output: true

@@ -49,3 +49,20 @@ em {
 pre {
   white-space: pre-wrap;
 }
+
+.right {
+  float: right;
+  padding-left: 1em;
+}
+
+.left {
+  float: left;
+  padding-right: 1em;
+}
+
+.center {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}

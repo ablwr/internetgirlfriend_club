@@ -39,13 +39,13 @@ Submissions can be in the form of a text narrative, illustration, interview, pho
 
 ### Submission Conclusions
 
-Accepted submissions will be delicately wrapped in code by hand and released as chapters. If selected, you will be notified upon publishing and have the right to retract. You own the content.
+Accepted submissions will be delicately wrapped in code by hand and released as volumes. If selected, you will be notified upon publishing and have the right to retract. You own the content.
 
 **Privacy**: You can also submit anonymously or with a nom de plume. However, this makes things a little tricky when retaining ownership or if I need to ask you if everything is OK. You can either navigate this complexity via setting up privacy/security on your side, or by accepting that the things you submit without a return-to-sender will be accepted as open to a [CC0 license](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
 ### Submission Deadlines
 
-Next chapter submission deadline is June 30, 2017!
+First come, first serve. Volumes are posted in chapters of six.
 
 ### So...?
 

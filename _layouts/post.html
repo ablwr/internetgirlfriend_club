@@ -2,8 +2,11 @@
 layout: default
 ---
 
-<article class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <p class="post-meta">{{ page.date | date: "%d/%m/%Y" }}</p>
-  {{ content | markdownify }}
-</article>
+<div class="wrapper">
+  {% include pagination.html %}
+  <article class="post">
+    <h1 class="post-title">{{ page.title }}</h1>
+    {{ content | markdownify }}
+  </article>
+  {% include pagination.html %}
+</div>

@@ -1,0 +1,19 @@
+<nav class="pagination" role="navigation">
+
+  {% if page.volume %}
+      <h2>Volume {{ page.volume }}, Chapter {{ page.chapter }}</h2>
+  {% endif %}
+
+  {% if page.previous %}
+    <a class="" href="{{ page.previous.url }}">
+      <<< {{ page.previous.title }} <<<
+    </a>
+  {% endif %}
+
+  {% if page.next %}
+    <a class="" href="{{ page.next.url }}">
+      >>> {{ page.next.title }} >>>
+    </a>
+  {% endif %}
+
+</nav>

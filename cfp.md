@@ -36,10 +36,11 @@ Submissions can be in the form of a text narrative, illustration, interview, pho
 
 - The narrative must have taken place on an internet that existed earlier than September 26, 2006.
 - Submissions should be informal (like talking to a friend), but formality (e.g. academic analysis) is okay too. E.g., text narratives need not be verbose -- 200 words will do, although longform submissions are also welcome. Just letting you know, this is chill.
+- Don't overthink it!  
 
 ### Submission Conclusions
 
-Accepted submissions will be delicately wrapped in code by hand and released as volumes. If selected, you will be notified upon publishing and have the right to retract. You own the content.
+Accepted submissions will be delicately wrapped in code by hand, decorated (if applicable) as one would a physical zine, and released as volumes. If selected, you will be notified upon publishing and have the right to retract. You own the content.
 
 **Privacy**: You can also submit anonymously or with a nom de plume. However, this makes things a little tricky when retaining ownership or if I need to ask you if everything is OK. You can either navigate this complexity via setting up privacy/security on your side, or by accepting that the things you submit without a return-to-sender will be accepted as open to a [CC0 license](https://creativecommons.org/share-your-work/public-domain/cc0/).
 

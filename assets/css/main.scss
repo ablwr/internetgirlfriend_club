@@ -40,6 +40,35 @@ h1 {
   padding: 0.5em 1em;
 }
 
+.showcase-header {
+  font-size: 6em;
+  font-weight: 800;
+  color: $oc-gray-7;
+}
+
+.showcase-item {
+  height: 8em;
+  width: 5em;
+  float: left;
+}
+
+.showcase-item a {
+  font-size: 4em;
+  font-weight: 800;
+  color: $oc-pink-4;
+  text-decoration: $oc-teal-4 underline double;
+}
+
+.showcase-item a:hover {
+  color: $oc-teal-9;
+  text-decoration: $oc-pink-9 underline wavy;
+}
+
+.showcase-item a:visited {
+  color: $oc-pink-5;
+  text-decoration: $oc-teal-5 underline double;
+}
+
 em {
   font-weight: normal;
   font-size: 0.8em;

@@ -27,3 +27,10 @@ This is a project by [Ashley Blewer](http://ashleyblewer.com), using the third-p
 - [Sherry Turkle](http://www.mit.edu/~sturkle/)
 - [Jenny Holzer](http://projects.jennyholzer.com/)
 - Campari & seltzer
+
+### More
+
+After starting this project, I was informed of two others, similar in ethos, and they are pretty great. Please check them out:
+
+- [allmyfriendsatonce](http://www.allmyfriendsatonce.com/#0)  
+- [websafe2k16](http://websafe2k16.com/)  

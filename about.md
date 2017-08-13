@@ -27,6 +27,7 @@ This is a project by [Ashley Blewer](http://ashleyblewer.com), using the third-p
 - [Sherry Turkle](http://www.mit.edu/~sturkle/)
 - [Jenny Holzer](http://projects.jennyholzer.com/)
 - Campari & seltzer
+- [GIRLI - Girl I Met On The Internet](https://www.youtube.com/watch?v=UsABHGeZQ7U)  
 
 ### More
 

@@ -13,8 +13,8 @@
   </style>
   <script>
     {% include loadCSS.js %}
-    loadCSS("{{ 'assets/css/main.css' | prepend: site.baseurl }}");
+    loadCSS("{{ '/assets/css/main.css' }}");
     {% include localfont.js %}
   </script>
-  <noscript><link rel="stylesheet" href="{{ "assets/css/main.css" | prepend: site.baseurl }}"></noscript>
+  <noscript><link rel="stylesheet" href="{{ "/assets/css/main.css" }}"></noscript>
 </head>

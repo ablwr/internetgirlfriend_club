@@ -12,3 +12,5 @@ exclude:
 collections:
   volume1:
     output: true
+  volume2:
+    output: true

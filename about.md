@@ -29,6 +29,13 @@ This is a project by [Ashley Blewer](http://ashleyblewer.com), using the third-p
 - Campari & seltzer
 - [GIRLI - Girl I Met On The Internet](https://www.youtube.com/watch?v=UsABHGeZQ7U)  
 
+### FOMO?
+
+Try these simulations!
+
+- [emily is away](https://kyleseeley23.itch.io/emilyisaway)  
+- [Lost Memories Dot Net](http://ninasays.so/lostmemoriesdotnet/)  
+
 ### More
 
 After starting this project, I was informed of two others, similar in ethos, and they are pretty great. Please check them out:

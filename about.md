@@ -42,3 +42,7 @@ After starting this project, I was informed of two others, similar in ethos, and
 
 - [allmyfriendsatonce](http://www.allmyfriendsatonce.com/#0)  
 - [websafe2k16](http://websafe2k16.com/)  
+
+### Even more
+
+If you really really love this project and don't know how to handle it, consider donating to the [Internet Archive](https://archive.org/donate/), as the creation and decoration of this website has relied heavily on [GIFCities](https://gifcities.org/?q=) and the [Wayback Machine](https://archive.org/web/). Also of interest and worthy of [support](http://rhizome.org/support/donate/) is [Rhizome](http://rhizome.org/) (in general) and their [oldweb.today](http://oldweb.today/) platform (in specific).

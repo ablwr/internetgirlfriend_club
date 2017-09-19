@@ -12,9 +12,8 @@
     {{ include_to_scssify | scssify }}
   </style>
   <script>
-    {% include loadCSS.js %}
-    loadCSS("{{ '/assets/css/main.css' }}");
+
     {% include localfont.js %}
   </script>
-  <noscript><link rel="stylesheet" href="{{ "/assets/css/main.css" }}"></noscript>
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" }}">
 </head>

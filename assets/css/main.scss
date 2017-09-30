@@ -118,3 +118,19 @@ pre {
 	color: green;
 	font-size: 2.5rem;
 }
+
+#oh-canada-container {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  align-content: flex-end;
+}
+
+@media only screen and (min-width: 56.313em) { body { #oh-canada-container .video, #oh-canada-container video { width: 7em; } } }
+@media only screen and (min-width: 75.063em) { body { #oh-canada-container .video, #oh-canada-container video { width: 7em; } } }
+@media only screen and (min-width: 112.563em) { body { #oh-canada-container .video, #oh-canada-container video { width: 10em; } } }
+
+#oh-canada-container .video, #oh-canada-container video {
+  background-color: black;
+  width: 7em;
+}

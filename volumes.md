@@ -30,4 +30,9 @@ navigation: true
     {% endfor %}
   </ul>
 
+  <ul class="">
+    {% for post in site.volume4 %}
+      <li class=""><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 </ul>

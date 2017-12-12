@@ -30,6 +30,7 @@ navigation: true
     {% endfor %}
   </ul>
 
+  <li><a class="page-link" href="/volume3/0.html">Volume 4</a></li>
   <ul class="">
     {% for post in site.volume4 %}
       <li class=""><a href="{{ post.url }}">{{ post.title }}</a></li>

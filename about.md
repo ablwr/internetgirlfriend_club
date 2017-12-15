@@ -38,7 +38,7 @@ Try these simulations!
 
 ### More
 
-After starting this project, I was informed of two others, similar in ethos, and they are pretty great. Please check them out:
+After starting this project, I have been informed of others, similar in ethos, and they are pretty great. Please check them out:
 
 - [allmyfriendsatonce](http://www.allmyfriendsatonce.com/#0)  
 - [First Screen Names](http://www.artdelicorp.com/2015/11/12/first-screen-names/)

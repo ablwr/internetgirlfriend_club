@@ -18,3 +18,7 @@ collections:
     output: true
   volume4:
     output: true
+  volume5:
+    output: true
+  volume6:
+    output: true

@@ -22,3 +22,7 @@ collections:
     output: true
   volume6:
     output: true
+  volume7:
+    output: true
+  volume8:
+    output: true

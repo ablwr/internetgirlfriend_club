@@ -34,7 +34,8 @@ This is a project by [Ashley Blewer](http://ashleyblewer.com), using the third-p
 Try these simulations!
 
 - [emily is away](https://kyleseeley23.itch.io/emilyisaway)  
-- [Lost Memories Dot Net](http://ninasays.so/lostmemoriesdotnet/)  
+- [Lost Memories Dot Net](http://ninasays.so/lostmemoriesdotnet/) 
+- [Lovestreams](https://www.newgrounds.com/portal/view/711631) 
 
 ### More
 

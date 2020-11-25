@@ -11,7 +11,7 @@ navigation: true
 
 This is about being a teenager and this is about love (or... something) and this is about an internet connected using phone lines.
 
-This is a project by [Ashley Blewer](http://ashleyblewer.com), using the third-person and royal "we."
+This is a project by [Ashley Blewer](https://ashleyblewer.com), using the third-person and royal "we."
 
 ### Technology
 

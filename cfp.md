@@ -7,6 +7,8 @@ navigation: true
 
 ### Submission Guidelines
 
+[¡¡¡ Submissions Form Here !!!](https://docs.google.com/forms/d/e/1FAIpQLSeUqrFZoeRduZqeyEQsAPUoXb7SddRmQ2XmalXkym_29-P2gw/viewform?usp=sf_link){: .center}
+
 {{ site.title }} is seeking former Generation Y2K internet girlfriends and boyfriends and enbyfriends to share informally their experience as teenagers or young adults on the world wide web.
 
 Submissions can be in the form of a text narrative, illustration, interview, photography, audio/video, or anything else you think would be suitable. Performance art (audio, video, dance, instructional), whatever, we'll figure out how to make work. Submissions featuring (or exclusively consisting of) primary sources are very very welcome!

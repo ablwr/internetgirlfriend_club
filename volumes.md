@@ -82,4 +82,11 @@ navigation: true
       <li class=""><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+
+  <li><a class="page-link" href="/volume12/0.html">Volume 12</a></li>
+  <ul class="">
+    {% for post in site.volume12 %}
+      <li class=""><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 </ul>

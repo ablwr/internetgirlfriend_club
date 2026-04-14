@@ -4,9 +4,7 @@ title: Internet Girlfriend Club
 navigation: false
 ---
 
-<div class="showcase-header center">🛸 Volume 12 🛸</div>
+<div class="showcase-header center">bye!</div>
 <div class="showcase center">
-  {% for post in site.volume12 %}
-    <div class="showcase-item"><a href="{{ post.url }}">{{ post.chapter }}</a></div>
-  {% endfor %}
+  thanks for stopping by! this site will end on Jun 1, 2026
 </div>
